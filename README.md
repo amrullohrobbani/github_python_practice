@@ -1,2 +1,2 @@
-# github_python_practice
+# Github Python Practice - Sport
 Github Python Practice course
